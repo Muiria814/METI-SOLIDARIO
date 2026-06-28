@@ -759,3 +759,25 @@ font-size:16px;
 cursor:pointer;
 
 }
+
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 220px;
+    text-align: center;
+}
+
+.card h3{
+    margin: 0 0 15px 0;
+    order: 2;
+}
+
+.card p{
+    margin: 0 0 15px 0;
+    order: 1;
+    width: 100%;
+    text-align: center !important;
+    font-weight: bold;
+}

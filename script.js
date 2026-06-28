@@ -358,15 +358,15 @@ function obterHora(){
 
 // COOKIES
 
-window.onload = function(){
+document.addEventListener("DOMContentLoaded", function(){
 
-if(localStorage.getItem("cookiesAceites")){
+    if(localStorage.getItem("cookiesAceites")){
 
-document.getElementById("cookie-banner").style.display="none";
+        document.getElementById("cookie-banner").style.display = "none";
 
-}
+    }
 
-}
+});
 
 function aceitarCookies(){
 

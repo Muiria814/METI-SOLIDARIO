@@ -147,7 +147,7 @@ else if(texto.includes("poço") ||
         texto.includes("agua")){
 
     resposta =
-    "Meti possui aproximadamente 153 poços de água, mas muitas comunidades ainda enfrentam dificuldades de acesso à água potável.";
+    "Meti possui aproximadamente 28 poços de água, mas muitas comunidades ainda enfrentam dificuldades de acesso à água potável.";
 
 }
 

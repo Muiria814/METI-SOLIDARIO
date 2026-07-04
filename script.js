@@ -120,7 +120,7 @@ else if(texto.includes("centro de saúde") ||
         texto.includes("saude")){
 
     resposta =
-    "Meti possui atualmente 2 centros de saúde que necessitam de apoio e melhoria.";
+    "Meti possui atualmente 1 centro de saúde que necessita de apoio e melhoria.";
 
 }
 
